@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KkCc0315, a 
-- 👀 I’m interested in Mobile Application Development, WebSite Design, CyberSecurity and Networking...
-- 🌱 I’m currently learning Network and Switching, CyberSecurity and Mobile Application Development...
-- 📫 How to reach me IG: kangwei_02
+- 👋 Hi, I’m @KkCc0315, 
+- 👀 I’m interested in 
+- 🌱 I’m currently 
+- 📫 How to reach me 
 
 <!---
 KkCc0315/KkCc0315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
